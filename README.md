@@ -1,6 +1,7 @@
 # Hasil-Modul2-Fara
 Hasil Background
 ![alt text](https://github.com/FaraNisha/Hasil-Modul2-Fara/blob/master/hasil%20background.PNG?raw=true)
+![alt text](https://github.com/FaraNisha/Hasil-Modul2-Fara/blob/master/hasil%20background%202.PNG?raw=true)
 Hasil Border
 ![alt text](https://github.com/FaraNisha/Hasil-Modul2-Fara/blob/master/hasil%20border.PNG?raw=true)
 Hasil Image Galery
